@@ -1,0 +1,32 @@
+[
+  {
+    "movieImg":"https://upload.wikimedia.org/wikipedia/en/4/4c/Kalki_2898_AD.jpg",
+    "movieTitle":"movie - Kalki 2898 AD",
+    "movieDirector":" Director - Nag Ashwin"
+  },
+  {
+    "movieImg":"https://upload.wikimedia.org/wikipedia/en/1/11/Pushpa_2-_The_Rule.jpg",
+    "movieTitle":"movie - Pushpa 2",
+    "movieDirector":"Director - Sukumar"
+  },
+  {
+    "movieImg":"https://upload.wikimedia.org/wikipedia/en/f/f0/Devara_Part_1.jpg",
+    "movieTitle":"movie - Devara",
+    "movieDirector":"Director - Koratala Siva"
+  },
+  {
+    "movieImg":"https://upload.wikimedia.org/wikipedia/en/b/bb/Hanu_Man_film_Release_poster.jpeg",
+    "movieTitle":"movie - Hanuman",
+    "movieDirector":"Director - Prasanth Varma"
+  },
+  {
+    "movieImg":"https://upload.wikimedia.org/wikipedia/en/6/6c/Lucky_Baskhar_film_poster.jpg",
+    "movieTitle":"movie - Lucky Bhaskar",
+    "movieDirector":"Director - Venky Atluri"
+  },
+  {
+    "movieImg":"https://upload.wikimedia.org/wikipedia/en/a/ad/KA_Telugu_film_poster.jpg",
+    "movieTitle":"movie - KA",
+    "movieDirector":"Director - Sujeeth & Sandeep"
+  }
+]
